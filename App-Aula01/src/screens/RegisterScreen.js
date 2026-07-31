@@ -43,7 +43,7 @@ export default function RegisterScreen({ navigation }) {
 
   return (
     <View style={styles.container}>
-      <Text style={styles.logo}>FinTrack</Text>
+      <Text style={styles.logo}>FinanSee</Text>
       <Text style={styles.subtitulo}>Crie sua conta</Text>
 
       <TextInput
